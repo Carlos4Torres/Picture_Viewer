@@ -1,3 +1,4 @@
 .vs/
+
 PictureViewer/bin
 PictureViewer/obj
